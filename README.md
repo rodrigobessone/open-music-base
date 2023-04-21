@@ -5,9 +5,9 @@ que o usuário deseja visualizar. A construção do projeto foi realizada com a 
 dados no localstorage.
 
 ## Funcionalidades
-- Filtragem dos discos por categoria musical e preço máximo
-- Adição de novos discos à lista
-- Visualização dos discos em estoque
+- Filtragem dos discos por categoria musical e preço máximo;
+- Adição de novos discos à lista;
+- Visualização dos discos em estoque.
 
 ## Tecnologias utilizadas
 CSS
