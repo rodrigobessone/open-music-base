@@ -1,0 +1,74 @@
+.div__header-button{
+    width: 36px;
+    height: 36px;
+    background-color: var(--color-grey-8);
+    display: flex;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    border-radius: 4px;
+}
+.header__button {
+    background-color: transparent;
+    border: none;
+    font-size: 16px;
+    margin-bottom: 8px;
+    height: 36px;
+    width: 36px;
+    border-radius: 4px;
+}
+
+.header__button:hover{
+    background-color: var(--color-grey-1);
+    color: var(--color-grey-8);
+}
+
+.div__buttons {
+    height: 32px;
+    margin-top: 24px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.div__buttons-sec {
+    margin-top: 32px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    width: 53%;
+    margin-bottom: 60px;
+}
+.div__buttons-button {
+    height: 32px;
+    background-color: var(--color-grey-8);
+    border: 1px var(--color-grey-8);
+    border-radius: 4px;
+    padding: 0 8px;
+}
+
+.div__buttons-button:hover {
+    background-color: var(--color-grey-1);
+    color: var(--color-grey-8);
+}
+
+.div__buttons-button:focus {
+    background-color: var(--color-grey-1);
+    color: var(--color-grey-8);
+}
+
+.div__buttons-position {
+    margin-right: 30px;
+}
+
+.button__buy {
+    width: 75px;
+    height: 32px;
+    margin-right: 25px;
+    padding: 0px, 8px, 0px, 8px;
+    background-color: var(--color-grey-7);
+    border: 1px solid var(--color-grey-7);
+    border-radius: 4px;
+}
+

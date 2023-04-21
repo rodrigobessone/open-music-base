@@ -1,0 +1,82 @@
+body.dark-mode {
+    background-color: var(--color-grey-0);
+}
+
+body.dark-mode .text-h1-header {
+    color: var(--color-grey-8);
+}
+
+body.dark-mode .div__gender-h2 {
+    color: var(--color-grey-4);
+    
+}
+
+body.dark-mode .header__button {
+    color: var(--color-grey-4);
+    background-color: var(--color-grey-1);
+    border: 2px solid var(--color-grey-1);
+}
+body.dark-mode .div__header-button{
+    background-color: var(--color-grey-1);
+}
+
+body.dark-mode .header__button:hover {
+    color: var(--color-grey-1);
+    background-color: var(--color-grey-4);
+    border: 2px solid var(--color-grey-4);
+}
+
+body.dark-mode .div__gender-h2 {
+    color: var(--color-grey-4);
+}
+
+body.dark-mode .div__buttons-button {
+    background-color: var(--color-grey-1);
+    border: 2px var(--color-grey-1);
+    color: var(--color-grey-3);
+}
+
+body.dark-mode .div__buttons-button:hover {
+    background-color: var(--color-grey-2);
+    color: var(--color-grey-9);
+}
+
+body.dark-mode .div__buttons-button:focus {
+    background-color: var(--color-grey-2);
+    color: var(--color-grey-9);
+}
+
+body.dark-mode .div__filter-h3 {
+    color: var(--color-grey-4);
+}
+
+body.dark-mode .div__filter-span {
+    color: var(--color-grey-3);
+}
+
+
+body.dark-mode .div__founder-h2 {
+    color: var(--color-grey-3);
+}
+body.dark-mode .div__infos {
+    background-color: var(--color-grey-1);
+}
+body.dark-mode .section__item {
+    background-color: var(--color-grey-1);
+
+}
+body.dark-mode .span__info{
+    color: var(--color-grey-3);
+}
+body.dark-mode .div__item-h3 {
+    color: var(--color-grey-8);
+}
+body.dark-mode .span__price {
+    color: var(--color-grey-8);
+}
+
+body.dark-mode .button__buy {
+    background-color: var(--color-grey-2);
+    border: 1px solid var(--color-grey-2);
+    color: var(--color-grey-5);
+}
