@@ -10,11 +10,11 @@ dados no localstorage.
 - Visualização dos discos em estoque.
 
 ## Tecnologias utilizadas
-CSS
-Javascript
-Métodos de array
-Persistência de dados no localstorage
-HTML
+- CSS;
+- Javascript;
+- Métodos de array;
+- Persistência de dados no localstorage;
+- HTML.
 
 ## Como executar o projeto
 Para executar o projeto, basta abrir o arquivo "index.html" em um navegador de internet compatível com as tecnologias utilizadas no projeto.
