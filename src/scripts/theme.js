@@ -8,7 +8,6 @@ export function changeTheme() {
     const bodySelector = document.querySelector("body")
 
     buttonTheme.addEventListener("click", () => {
-        console.log(bodySelector)
         bodySelector.classList.toggle("dark-mode")
         const isDark = bodySelector.classList.contains("dark-mode")
 

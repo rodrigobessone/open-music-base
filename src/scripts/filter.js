@@ -7,7 +7,6 @@ export function filterButtons() {
     allButtons.forEach(button => {
         button.addEventListener("click", () => {
             const category = parseInt(button.dataset.category)
-            console.log(category)
             if (category === 0) {
                 filteredItems = products
                 renderItems(filteredItems)
